@@ -1,2 +1,2 @@
 # LeetCode Solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions with solutions in JavaScript/TypeSript... [LeetCode Profile](https://leetcode.com/u/gauravdubey19/)
